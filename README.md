@@ -45,18 +45,11 @@ L'application utilise une **transition douce (fade et slide)** entre les questio
 
 ---
 
-## 💡 Améliorations possibles
 
-- Ajouter un chronomètre par question.
-- Ajouter un effet sonore pour les bonnes/mauvaises réponses.
-- Enregistrer les scores dans le localStorage.
-- Ajouter plus de types de questions (QCM, texte libre...).
-
----
 
 ## 🖥️ Aperçu
 
-![Aperçu du projet](./Screenshot.png) 
+![Aperçu du projet](./src/Screenshot.png) 
 
 ---
 
