@@ -49,7 +49,7 @@ L'application utilise une **transition douce (fade et slide)** entre les questio
 
 ## 🖥️ Aperçu
 
-![Aperçu du projet](/quiz-app/Screenshot.png) 
+![Aperçu du projet](./src/Screenshot.png) 
 
 ---
 
